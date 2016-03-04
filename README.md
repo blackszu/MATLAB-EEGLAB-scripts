@@ -16,21 +16,19 @@ Some example scripts for processing EDF format EEG data using MATLAB's EEGLAB 12
 - EEG post-process using independent component analysis(ICA)
 
 ##(5) eeg_ICA2ERP.m
-- ERP process for ICA-pruned datasets
-	ERP- BINSLISTER
-	ERP- Epoching
-	ERP- Computing and saving ERP
+- ERP process for ICA-pruned datasets : 
+- ERP - BINSLISTER, Epoching, Computing and saving ERP
 
 ##(6) eeg_DataMerge_P2P_ERP.m
 - merge(append) datasets by selecting Ss# (single or multiple)
 - ERP process with post-processing using peak-to-peak amplitude detection(P2PW)
-	ERP- BINSLISTER
-	ERP- Epoching
-	ERP- Detect artifacts with "Peak to Peak"
-	ERP- Computing and saving ERP
+- ERP- BINSLISTER
+- ERP- Epoching
+- ERP- Detect artifacts with "Peak to Peak"
+- ERP- Computing and saving ERP
 
 ##(7) eeg_EEG2ERP_no_ICA.m
 - ERP process for "merged" datasets, no post processing
-	ERP- BINSLISTER
-	ERP- Epoching
-	ERP- Computing and saving ERP
+- ERP- BINSLISTER
+- ERP- Epoching
+- ERP- Computing and saving ERP
