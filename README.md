@@ -1,5 +1,8 @@
 ## MATLAB-EEGLAB-scripts
-Some example scripts for processing EDF format EEG data using MATLAB's EEGLAB 12.0.1.0b (Delorme & Makeig, 2004) and ERPLAB 4.0.2.3 (Lopez-Calderon & Luck, 2014)
+
+**Author: S. Wu**
+
+Example scripts for processing EDF format EEG data using MATLAB's EEGLAB 12.0.1.0b (Delorme & Makeig, 2004) and ERPLAB 4.0.2.3 (Lopez-Calderon & Luck, 2014)
 
 ###(1) eeg_Path_n_Name.m
 - set file paths for stages of processed files
